@@ -14,7 +14,6 @@
 - **Interfaz Intuitiva:** Diseño sencillo para una fácil navegación y uso.
 - **Diseño Atractivo:** Incluye gráficos y elementos visuales para una experiencia de usuario agradable.
 - **Monetización:** Integración con AdMob para monetizar la aplicación.
-- **Consumo de API con Retrofit:** Integración con la **API** usando **Retrofit** para la obtención de datos
 
 ## 🛠️ Tecnologías y Herramientas
 
